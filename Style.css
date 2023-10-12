@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #000000;
+}
+
+
+h1 {
+    color: #fff;
+}
+
+.text{
+    color: #ff9822;
+}
+
+
+button{
+    width: 120px;
+    height: 50px;
+    background: transparent;
+    border: 2px solid #fff;
+    outline: none;
+    border-radius: 26px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 40px;
+    transition: .5s;
+}
+
+button:hover {
+    background: #47b2e4;
+    color: #162938;
+}
+
+.choice{
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+}
